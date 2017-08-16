@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bookly Service Extras (Add-on) v1.15\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-19 11:58+0300\n"
+"PO-Revision-Date: 2017-05-19 12:02+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1,2t;_e:1,2t;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;"
+"_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../backend/modules/appearance/templates/_codes.php:3
+msgid "name of category"
+msgstr "название категории"
+
+#: ../backend/modules/appearance/templates/_codes.php:4
+msgid "number of persons"
+msgstr "количество персон"
+
+#: ../backend/modules/appearance/templates/_codes.php:5
+msgid "info of service"
+msgstr "информация о сервисе"
+
+#: ../backend/modules/appearance/templates/_codes.php:6
+msgid "name of service"
+msgstr "название сервиса"
+
+#: ../backend/modules/appearance/templates/_codes.php:7
+msgid "price of service"
+msgstr "цена сервиса"
+
+#: ../backend/modules/appearance/templates/_codes.php:8
+msgid "info of staff"
+msgstr "информация о работнике"
+
+#: ../backend/modules/appearance/templates/_codes.php:9
+msgid "name of staff"
+msgstr "имя работника"
+
+#: ../backend/modules/appearance/templates/_codes.php:10
+msgid "total price of booking"
+msgstr "итоговая цена"
+
+#: ../backend/modules/appearance/templates/appearance.php:39
+#: ../backend/modules/settings/templates/settings_form.php:5
+#: ../frontend/modules/extras/templates/step_extras.php:64
+msgid "Summary"
+msgstr "Итого"
+
+#: ../backend/modules/services/templates/extras.php:10
+msgid "New Item"
+msgstr "Новый элемент"
+
+#: ../backend/modules/services/templates/extras.php:19
+#: ../backend/modules/services/templates/extras_blank.php:10
+msgid "Reorder"
+msgstr "Переместить"
+
+#: ../backend/modules/services/templates/extras.php:33
+#: ../backend/modules/services/templates/extras_blank.php:21
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../backend/modules/services/templates/extras.php:38
+#: ../backend/modules/services/templates/extras_blank.php:27
+#: ../backend/modules/settings/templates/settings_form.php:5
+msgid "Image"
+msgstr "Изображение"
+
+#: ../backend/modules/services/templates/extras.php:50
+#: ../backend/modules/services/templates/extras_blank.php:39
+#: ../backend/modules/settings/templates/settings_form.php:5
+msgid "Title"
+msgstr "Название"
+
+#: ../backend/modules/services/templates/extras.php:59
+#: ../backend/modules/services/templates/extras_blank.php:46
+#: ../backend/modules/settings/templates/settings_form.php:5
+msgid "Price"
+msgstr "Цена"
+
+#: ../backend/modules/services/templates/extras.php:68
+#: ../backend/modules/services/templates/extras_blank.php:53
+#: ../backend/modules/settings/templates/settings_form.php:5
+msgid "Duration"
+msgstr "Продолжительность"
+
+#: ../backend/modules/services/templates/extras.php:71
+#: ../backend/modules/services/templates/extras_blank.php:55
+msgid "OFF"
+msgstr "ВЫКЛЮЧИТЬ"
+
+#: ../backend/modules/services/templates/extras.php:80
+#: ../backend/modules/services/templates/extras_blank.php:65
+msgid "Max quantity"
+msgstr "Макс. количество"
+
+#: ../backend/modules/settings/templates/settings_form.php:4
+#: ../lib/Installer.php:18 ../lib/proxy_providers/Shared.php:145
+msgid "Extras"
+msgstr "Дополнения"
+
+#: ../backend/modules/settings/templates/settings_form.php:4
+msgid ""
+"This setting enables or disables the Extras step of booking. You can choose "
+"what information should be displayed to your clients by using the checkboxes "
+"below."
+msgstr ""
+"Эта настройка включает или выключает шаг Дополнения в процессе бронирования. "
+"Вы можете выбрать, какая информация будет отображаться на этом шаге, при "
+"помощи галочек ниже."
+
+#: ../backend/modules/settings/templates/settings_form.php:5
+msgid "Show"
+msgstr "Показать"
+
+#: ../frontend/modules/extras/templates/step_extras.php:60
+msgid "No Extras."
+msgstr "Дополнения отсутствуют."
+
+#: ../lib/Installer.php:19 ../lib/Updater.php:12
+msgid "Next"
+msgstr "Далее"
+
+#: ../lib/Installer.php:20
+msgid "Select the Extras you'd like (Multiple Selection)"
+msgstr "Выберите желаемые дополнения (множественный выбор)"
+
+#: ../lib/entities/ServiceExtra.php:35 ../lib/proxy_providers/Local.php:124
+msgid "Untitled"
+msgstr "Без имени"
+
+#: ../lib/proxy_providers/Shared.php:172 ../lib/proxy_providers/Shared.php:212
+#: ../lib/proxy_providers/Shared.php:225
+msgid "extras titles"
+msgstr "название дополнений"
+
+#: ../lib/proxy_providers/Shared.php:226
+msgid "extras total price"
+msgstr "итоговая цена дополнений"
+
+#: ../lib/proxy_providers/Shared.php:274
+msgid "Service Extras"
+msgstr "Дополнения к сервисам"
+
+#: ../lib/proxy_providers/Shared.php:297
+msgid "Settings saved."
+msgstr "Настройки сохранены."

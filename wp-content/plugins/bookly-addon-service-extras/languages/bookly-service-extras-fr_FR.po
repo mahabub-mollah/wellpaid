@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bookly Service Extras (Add-on) v1.15\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-19 11:56+0300\n"
+"PO-Revision-Date: 2017-05-19 11:57+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1,2t;_e:1,2t;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;"
+"_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../backend/modules/appearance/templates/_codes.php:3
+msgid "name of category"
+msgstr "nom de la catégorie"
+
+#: ../backend/modules/appearance/templates/_codes.php:4
+msgid "number of persons"
+msgstr "nombre de personnes"
+
+#: ../backend/modules/appearance/templates/_codes.php:5
+msgid "info of service"
+msgstr "infos service"
+
+#: ../backend/modules/appearance/templates/_codes.php:6
+msgid "name of service"
+msgstr "nom du service"
+
+#: ../backend/modules/appearance/templates/_codes.php:7
+msgid "price of service"
+msgstr "prix du service"
+
+#: ../backend/modules/appearance/templates/_codes.php:8
+msgid "info of staff"
+msgstr "information du personnel"
+
+#: ../backend/modules/appearance/templates/_codes.php:9
+msgid "name of staff"
+msgstr "nom du staff"
+
+#: ../backend/modules/appearance/templates/_codes.php:10
+msgid "total price of booking"
+msgstr "prix total de la réservation"
+
+#: ../backend/modules/appearance/templates/appearance.php:39
+#: ../backend/modules/settings/templates/settings_form.php:5
+#: ../frontend/modules/extras/templates/step_extras.php:64
+msgid "Summary"
+msgstr "Résumé"
+
+#: ../backend/modules/services/templates/extras.php:10
+msgid "New Item"
+msgstr "Nouvel article"
+
+#: ../backend/modules/services/templates/extras.php:19
+#: ../backend/modules/services/templates/extras_blank.php:10
+msgid "Reorder"
+msgstr "Réorganiser"
+
+#: ../backend/modules/services/templates/extras.php:33
+#: ../backend/modules/services/templates/extras_blank.php:21
+msgid "Delete"
+msgstr "Effacer"
+
+#: ../backend/modules/services/templates/extras.php:38
+#: ../backend/modules/services/templates/extras_blank.php:27
+#: ../backend/modules/settings/templates/settings_form.php:5
+msgid "Image"
+msgstr "Image"
+
+#: ../backend/modules/services/templates/extras.php:50
+#: ../backend/modules/services/templates/extras_blank.php:39
+#: ../backend/modules/settings/templates/settings_form.php:5
+msgid "Title"
+msgstr "Titre"
+
+#: ../backend/modules/services/templates/extras.php:59
+#: ../backend/modules/services/templates/extras_blank.php:46
+#: ../backend/modules/settings/templates/settings_form.php:5
+msgid "Price"
+msgstr "Prix"
+
+#: ../backend/modules/services/templates/extras.php:68
+#: ../backend/modules/services/templates/extras_blank.php:53
+#: ../backend/modules/settings/templates/settings_form.php:5
+msgid "Duration"
+msgstr "Durée"
+
+#: ../backend/modules/services/templates/extras.php:71
+#: ../backend/modules/services/templates/extras_blank.php:55
+msgid "OFF"
+msgstr "OFF"
+
+#: ../backend/modules/services/templates/extras.php:80
+#: ../backend/modules/services/templates/extras_blank.php:65
+msgid "Max quantity"
+msgstr "Quantité maximale"
+
+#: ../backend/modules/settings/templates/settings_form.php:4
+#: ../lib/Installer.php:18 ../lib/proxy_providers/Shared.php:145
+msgid "Extras"
+msgstr "Extras"
+
+#: ../backend/modules/settings/templates/settings_form.php:4
+msgid ""
+"This setting enables or disables the Extras step of booking. You can choose "
+"what information should be displayed to your clients by using the checkboxes "
+"below."
+msgstr ""
+"Ce paramètre active ou désactive l'étape de la réservation Extras. Vous "
+"pouvez choisir les informations à afficher à vos clients en utilisant les "
+"cases ci-dessous."
+
+#: ../backend/modules/settings/templates/settings_form.php:5
+msgid "Show"
+msgstr "Montrer"
+
+#: ../frontend/modules/extras/templates/step_extras.php:60
+msgid "No Extras."
+msgstr "No Extras."
+
+#: ../lib/Installer.php:19 ../lib/Updater.php:12
+msgid "Next"
+msgstr "Prochain"
+
+#: ../lib/Installer.php:20
+msgid "Select the Extras you'd like (Multiple Selection)"
+msgstr "Sélectionnez les Extras que vous souhaitez (Sélection multiple)"
+
+#: ../lib/entities/ServiceExtra.php:35 ../lib/proxy_providers/Local.php:124
+msgid "Untitled"
+msgstr "Sans titre"
+
+#: ../lib/proxy_providers/Shared.php:172 ../lib/proxy_providers/Shared.php:212
+#: ../lib/proxy_providers/Shared.php:225
+msgid "extras titles"
+msgstr "titres des extras"
+
+#: ../lib/proxy_providers/Shared.php:226
+msgid "extras total price"
+msgstr "prix total des extras"
+
+#: ../lib/proxy_providers/Shared.php:274
+msgid "Service Extras"
+msgstr "Extras de service"
+
+#: ../lib/proxy_providers/Shared.php:297
+msgid "Settings saved."
+msgstr "Réglages enregistrés"

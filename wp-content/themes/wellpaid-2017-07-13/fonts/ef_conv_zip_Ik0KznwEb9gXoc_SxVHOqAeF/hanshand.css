@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'hanshand';
+    src: url('fonts/hanshand.eot');
+    src: url('fonts/hanshand.eot') format('embedded-opentype'),
+         url('fonts/hanshand.woff2') format('woff2'),
+         url('fonts/hanshand.woff') format('woff'),
+         url('fonts/hanshand.ttf') format('truetype'),
+         url('fonts/hanshand.svg#hanshand') format('svg');
+}

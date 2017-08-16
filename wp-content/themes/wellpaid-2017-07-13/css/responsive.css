@@ -1,0 +1,343 @@
+@media screen and (max-width:1279px){
+	.countBoxIn{padding-right:68px}
+	.lastBox{padding-right:0}
+	.countBoxIn:after{width:72px}
+	.countBoxIn h6{font-size:18px}	
+	.formInner{border-width:12px}
+	.app_img img{left:0}
+}
+@media screen and (max-width:1200px){    
+    .top_menu a{
+        font-size:14px;
+        padding:0 7px;
+    }
+    .bookbtn{width:128px !important}
+    .slideCap h3{font-size:40px}
+    .slideCap h2{font-size:56px}
+    .single_approach h5{font-size:20px}
+    .ourMission{padding:36px 0 60px}
+    .ftrLogo{max-width:205px}
+}
+@media screen and (max-width:1199px){
+    .ftrMenu ul{padding:0 0 0 30px}
+    .ftrMenu ul li{padding:0 16px}
+	h2.bnr_title{font-size:58px}
+	.bnrWrap{bottom:20%}
+	.teamProTxt{
+		min-height:150px;
+		height:100%;
+	}
+}
+@media screen and (max-width:1023px){
+	.countNmbr{
+		width:50px;
+		line-height:44px;
+		font-size:24px
+	}
+	.countBoxIn{padding-right:42px}
+	.lastBox{padding-right:0}
+	.countBoxIn:after{
+		width:52px;
+		top:36px;
+	}
+	.countBoxIn h6{
+		font-size:15px;
+		line-height:19px;
+	}
+	.formInner{padding:10px 10px 29px}
+	.productBox{padding:5px 10px 25px 10px}
+	.boxRght h3{font-size:22px}
+	.boxRght .cmnBtn{
+		line-height:17px;
+		font-size:14px;
+	}
+	.productBox{margin:0}
+	.selectBox .cmnInput{width:100%}
+	.single_usedPro span{line-height:22px}
+}
+@media screen and (max-width:991px){
+    nav.top_menu{padding:5px 0 0;}
+    .top_menu a{
+        font-size:12px;
+        padding:0 5px;
+    }
+    .top_menu li{margin:0 3px}
+    .bookbtn{width:88px !important;}
+    .slideCap h3{font-size:35px;}
+    .slideCap h2{font-size:50px;}
+    .slide_item_table .col-sm-5{width:55%}
+    .testimonials{padding:50px 0 50px}
+    .test_contLft,
+    .test_contRgt{width:47%}
+    .ftrLogo{
+        max-width:220px;
+        width:100%;
+        float:none;
+        margin:0 auto;
+    }
+    .ftrMenu ul{padding:0}
+    .copyright{padding:16px 0}
+    .copyLogo{
+        margin:20px auto 0;
+        max-width:380px;
+        overflow:hidden;
+    }
+    .copyright .col-sm-6{
+        width:100%;
+        text-align:center
+    }
+    .bnr_sec{background-position:left 73% center}
+	.about_sec1 .col-sm-6{width:100%}
+	.about_sec1RgtCont{margin-top:30px}
+	.about_sec1RgtCont::after{background-color:transparent}
+	.team_snglBox{padding:0 15px 13px}
+	.teamProTxt{
+		height:170px;
+		overflow:scroll;
+	}
+}
+@media screen and (min-width:768px){
+    .top_menu ul{display:block !important}
+}
+@media screen and (max-width:767px){
+    .top_menu ul{
+        background:#EFF4EA;
+        display:none;
+        left:0;
+        padding:10px 0;
+        position:absolute;
+        right:0;
+        text-align:center;
+        top:15px;
+        width:100%;
+        z-index:9;
+    }
+    .top_menu li{display:block;}
+    .bookbtn{
+        margin:0 auto !important;
+        width:178px !important;
+    }
+    .top_menu li.bookbtn a{padding:5px 0}
+    .top_menu a{
+        color:#313131;
+        font-size:16px;
+        padding:0 15px;
+        display:block;
+    }
+    .mobileMenu{
+        background:#8dc63f;
+        cursor:pointer;
+        display:block;
+        width:23px;
+        height:25px;
+        line-height:0.11;
+        padding:5px;
+        position:absolute;
+        right:15px;
+        top:-36px;
+		transition:.2s
+    }
+	.mobileMenu:hover{background-color:#2c9acf}
+    .mobileMenu span{
+        background:#fff none repeat scroll 0 0;
+        display:inline-block;
+        height:2px;
+        width:100%;
+    }
+    .single_slide{
+        background-position:left 70% center;
+        background-size:cover;
+    }
+    .slide_item_table .col-sm-5{width:60%;}
+    .noPaddingLeft{padding-left:15px !important;}
+    .noPaddingRight{padding-right:15px !important;}
+    .celaningBox h2{font-size:50px}
+    .cleanForm{max-width:100%}
+    .mediaBox_In{padding:30px 0 0}
+    .mediaBox_Inner{
+        margin-left:-16px;
+        margin-right:-16px;
+    }
+    .ftrMenu{
+        width:100%;
+        float:none;
+        padding-bottom:15px;
+    }
+    .ftrMenu ul li{padding:0 14px}
+    .ftrLogo_rgt{
+        float:none;
+        margin:0 auto;
+    }
+    .copyright p{padding-top:0}
+    h2.bnr_title{
+        font-size:49px;
+        text-align:center;
+    }
+    .bnrWrap{bottom:10%}
+	.about_sec1Cont{padding:0}
+	.ourTeam{padding:50px 0}
+	.teamContIn{padding-top:30px}
+	.team_snglBox{
+		width:100%;
+		padding:0 0 13px;
+	}
+	.teamProTxt{
+		min-height:auto;
+		height:auto;
+		overflow:inherit
+	}	
+	.productBox{margin:25px 0 0}
+	.countBoxIn{padding-right:33px}
+	.countBoxIn:after{
+		width:36px;
+		top:26px;
+	}
+	.countBoxIn h6{font-size:14px}
+	.mobileApprch{display:block}
+	.deskTopApprch{display:none}
+	.approach_contRgt{
+		width:100%;
+		display:block;
+	}
+	.approach_contLft{width:100%}
+	.approach_contLft .app_img{
+		width:65%;
+		margin:0 auto;
+		position:relative
+	}
+}
+@media screen and (max-width:639px){
+    .slide_item_table .col-sm-5{width:100%}
+    .single_slide{height:530px}
+    .slideCap h2{font-size:44px}
+    .slideCap h3{
+        font-size:31px;
+        line-height:32px;
+        margin:0 0 10px;
+    }
+	.bnr_sec{height:320px}
+    .bnrWrap{bottom:20%}
+    .cmnHding h2{
+        line-height:46px;
+        font-size:40px;
+    }
+    .ourMission{padding-bottom:64px}
+    .celaningBox{padding:35px 0 58px}
+    .celaningBox h2{
+        font-size:40px;
+        line-height:45px;
+        text-align:center;
+    }
+    .single_approach h5{
+        font-size:15px;
+        line-height:20px;
+    }
+    .mediaBox{padding-bottom:40px}
+    input.cmnBtn{padding:12px 40px}
+    .cmnMediaBox{
+        width:100%;
+        margin-bottom:30px;
+    }
+    .testimonials h2{
+        font-size:40px;
+        line-height:48px;
+    }
+    .test_contBox{padding-top:30px}
+    .test_contLft,
+    .test_contRgt{width:100%}
+    .test_contLft{margin-bottom:20px}
+    .ftrMenu ul li{
+        padding:0;
+        text-align:center;
+        width:100%;
+    }
+    .ftrMenu ul li a{line-height:30px}
+	.teamCont h2{
+		font-size:35px;
+		line-height:42px;
+	}
+	.teamContIn{padding-top:20px}
+	.countBoxIn{width:50%}
+	.countBoxIn{padding-bottom:30px}
+	.lastBox,
+	.secondBox{padding-right:0}
+	.secondBox:after{background:none !important}
+	.bookingForm{padding-top:0}
+	.boxRght p{
+		line-height:22px;
+		font-size:15px
+	}
+	.proUsed_sec{padding-top:50px}
+}
+@media screen and (max-width:479px){
+    .logo{max-width:235px;}
+    .mobileMenu{top:-28px;}
+    .slideCap{padding-top:55px}
+    .slideCap h2{font-size:33px}
+    .slideCap h3{font-size:24px}
+    .missionBox{padding-top:0}
+    .cmnHding h2{
+        line-height:38px;
+        font-size:30px;
+    }
+    .celaningBox{padding:44px 0}
+    .celaningBox h2{
+        line-height:38px;
+        font-size:28px
+    }
+    .cmnInput{padding-top:16px}
+    .form-control{padding:9px 12px}
+    .cleanForm .cmnBtn{padding:8px 30px}
+    .mediaBox{padding-bottom:15px}
+    .mediaBox_In{padding:40px 0 0}
+    .testimonials{padding:35px 0}
+    .testimonials h2{
+        font-size:30px;
+        line-height:38px;
+    }
+    .test_contBox{padding-top:20px}
+    .test_contLft,
+    .test_contRgt{padding:24px 20px 80px}
+    .copyright{padding:16px 0}
+    .copyright p{
+        font-size:13px;
+        padding-top:5px;
+    }
+    .copy_Company,
+    .copyShare{
+        float:none;
+        width:100%;
+    }
+    .copyShare{
+        padding-right:0;
+        padding-top:12px;
+    }
+    .copy_Company a{width:24%}
+    .copy_Company a img{width:100%}
+	.bnr_sec{height:250px}
+	.bnrWrap{bottom:25%}
+    h2.bnr_title{font-size:40px;}
+    .single_usedPro h3,
+	.single_usedPro h3 a{
+        font-size:23px;
+        margin:0 0 15px;
+    }
+	.about_sec1 .cmnBtn{padding:7px 30px 9px}
+	.about_sec1{padding-bottom:45px}
+	.ourTeam{padding:35px 0}
+	.teamProImg{max-width:70px}
+	.bookingBox{padding-bottom:40px}
+	.formInner label{font-size:14px}
+	.cmnPrdctBox{padding-bottom:15px}
+	.boxLeft{
+		width:100%;
+		padding-bottom:25px;
+	}
+	.boxLeft img{margin:0 auto}
+	.boxRght{
+		width:100%;
+		padding-left:0;
+		text-align:center;
+	}
+	.boxRght p{margin-bottom:10px}
+}
